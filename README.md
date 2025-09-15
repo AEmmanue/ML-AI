@@ -1,5 +1,5 @@
 # ML-AI
-predictive and deep learning for business use case
+Portfolio of Machine Learning & AI projects (Classification, NLP, Time-Series)
 
 Customer Churn Prediction (Telco Dataset)
 This project predicts whether a customer will churn (leave the service) based on demographic and usage data.
